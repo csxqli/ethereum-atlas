@@ -1,0 +1,29 @@
+{
+  "name": "ethereum-atlas",
+  "version": "1.0.0",
+  "description": "Ethereum Neural Network toolkit.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-cli": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alianse777/ethereum-atlas.git"
+  },
+  "keywords": [
+    "ethereum",
+    "neural",
+    "network",
+    "toolkit"
+  ],
+  "author": "ALIANSE777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alianse777/ethereum-atlas/issues"
+  },
+  "homepage": "https://github.com/alianse777/ethereum-atlas#readme"
+}
