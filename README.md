@@ -1,3 +1,3 @@
-#  Ethereum Neural Network toolkit.
+#  Ethereum data analysis toolkit.
 
 Under development.
